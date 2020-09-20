@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/core.iml" filepath="$PROJECT_DIR$/.idea/core.iml" />
       <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/concurrency/concurrency.iml" filepath="$PROJECT_DIR$/concurrency/concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambdaexpressions/lambdaexpressions.iml" filepath="$PROJECT_DIR$/lambdaexpressions/lambdaexpressions.iml" />
     </modules>
   </component>
 </project>
