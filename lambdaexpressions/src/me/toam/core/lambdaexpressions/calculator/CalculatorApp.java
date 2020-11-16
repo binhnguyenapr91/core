@@ -1,6 +1,6 @@
 package me.toam.core.lambdaexpressions.calculator;
 /**
- * @author: Binh Nguyen Thai
+ * @author: Binh Nguyen
  *
  * Sep 22, 2020
  */

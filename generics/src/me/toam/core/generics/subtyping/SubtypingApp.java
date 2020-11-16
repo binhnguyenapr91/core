@@ -1,6 +1,6 @@
 package me.toam.core.generics.subtyping;
 /**
- * @author: Binh Nguyen Thai
+ * @author: Binh Nguyen
  *
  * Sep 16, 2020
  */
