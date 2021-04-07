@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/lambdaexpressions/lambdaexpressions.iml" filepath="$PROJECT_DIR$/lambdaexpressions/lambdaexpressions.iml" />
       <module fileurl="file://$PROJECT_DIR$/streamapi/streamapi.iml" filepath="$PROJECT_DIR$/streamapi/streamapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string/string.iml" filepath="$PROJECT_DIR$/string/string.iml" />
     </modules>
   </component>
 </project>
